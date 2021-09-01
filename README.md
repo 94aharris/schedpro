@@ -5,7 +5,11 @@ Simple student and class scheduling web application
 
 The Penultimate Schedular 
 
-# Stack
+## Stack
 
-Django
-PostgreSQL
+* Django
+* PostgreSQL
+
+## Backlog
+
+* [Trello Board](https://trello.com/b/D6yXfviT/schedpro-kanban)
